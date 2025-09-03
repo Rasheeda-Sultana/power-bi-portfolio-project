@@ -56,8 +56,8 @@ The project covers the **entire analytics lifecycle**:
 ---
 
 ## 🖼️ Report Preview  
-*<img width="917" height="486" alt="image" src="https://github.com/user-attachments/assets/f8ede984-62f2-4e20-af96-f4105c9b7735" />
-*  
+docs/2023 Data Visualisation.png
+docs/2024 Data Visualisation.png
 
 ---
 
