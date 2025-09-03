@@ -69,10 +69,12 @@ The project covers the **entire analytics lifecycle**:
 ---
 
 ## 🚀 How to Use  
-1. Download the repository files  
-2. Open **`Performance Report.pbix`** in Power BI Desktop  
-3. Refresh the data model (linked to `Plant_DTS.xls`)  
-4. Explore the dashboards and interact with slicers  
+
+1. Download the repository files from the **`Data`** folder.  
+2. Open **`Performance Report.pbix`** in **Power BI Desktop**.  
+3. Refresh the data model (linked to **`Plant_DTS.xls`**).  
+4. Explore the dashboards and interact with slicers.  
+
 
 ---
 
