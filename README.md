@@ -56,8 +56,14 @@ The project covers the **entire analytics lifecycle**:
 ---
 
 ## 🖼️ Report Preview  
-![Data Visualisation](docs/2023_Data_Visualisation.png)
-![Data Visualisation](docs/2024_Data_Visualisation.png)
+## Data Visualisations
+
+### 2023
+![2023 Data Visualisation](docs/2023%20Data%20Visualisation.png)
+
+### 2024
+![2024 Data Visualisation](docs/2024%20Data%20Visualisation.png)
+
 
 
 ---
